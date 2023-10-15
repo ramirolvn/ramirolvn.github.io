@@ -74,11 +74,11 @@ const terminal: TerminalData[] = [
               Linkedin:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.linkedin.com/in/ramirolima"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan-zou
+                Ramiro Lima
               </a>
             </li>
             <li>
